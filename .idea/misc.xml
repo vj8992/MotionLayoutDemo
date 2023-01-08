@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/btn_outline.xml" value="0.173" />
+        <entry key="app/src/main/res/drawable/button_bg.xml" value="0.173" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.14343872070312502" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2776268115942029" />
+        <entry key="app/src/main/res/xml/swipe_scene.xml" value="0.2776268115942029" />
       </map>
     </option>
   </component>
